@@ -1,0 +1,6 @@
+{
+  "name": "DawnBrief — Overnight Group Chat Agent",
+  "description": "A local-first overnight intelligence agent that monitors your group chats while you sleep and hands you an essential two-line morning briefing, action items, and voice readout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
